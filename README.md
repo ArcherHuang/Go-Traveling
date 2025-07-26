@@ -2,7 +2,7 @@
 * ☑ Your attitude will decide your altitude.
 * ☑ 旅行的意義不止於遊覽景點，而是從中發掘新的思維態度
 
-#【 出國旅歷 】
+# 【 出國旅歷 】
 1. 越南 - 河內 Hanoi, Vietnam（ 2010 / 6 / 30 - 2010 / 9 / 1 ）
 2. 中國 - 香港 Hong Kong, China（ 2011 / 12 / 24 - 2011 / 12 / 26 ）
 3. 新加坡 Singapore （ 2014 / 11 / 6 - 2014 / 11 / 12 ）
