@@ -15,7 +15,7 @@
 10. 泰國 - 曼谷 Bangkok, Thailand （ 2017/6/6 - 2017/6/9 ）
 11. 馬來西亞 - 檳城、怡保 Penang , Ipoh  , Malaysia （ 2017/12/8 - 2017/12/16 ）
 12. 泰國 - 曼谷、芭達雅 Bangkok、Pattaya  , Thailand （ 2018/1/24 - 2018/1/30 ）
-13. 埃及 Egypt（ 2018/3/23 - 2018/4/1 ）
+13. 埃及 - 開羅 Cairo、亞斯文 Aswan、康孟波 Kom Ombo、艾得夫 Edfu、路克索 Luxor、虎加達 Hurghada, Egypt（ 2018/3/23 - 2018/4/1 ）
 14. 泰國 - 曼谷、清邁、清萊 Bangkok、Chiang Mai、Chiang Rai, Thailand（ 2018/5/7 - 2018/5/16 ）
 15. 中國 - 西藏 Tibet, China ( 2019/10/15 - 2019/10/26 )
 16. 印度 - 拉達克 Ladakh, India ( 2025/7/11 - 2025/7/24 )
