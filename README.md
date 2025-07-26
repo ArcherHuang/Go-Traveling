@@ -1,6 +1,6 @@
 # Slogan
-* ☑ Your attitude will decide your altitude.
-* ☑ 旅行的意義不止於遊覽景點，而是從中發掘新的思維態度
+- [x] Your attitude will decide your altitude.
+- [x] 旅行的意義不止於遊覽景點，而是從中發掘新的思維態度
 
 # 出國旅歷
 1. 越南 - 河內 Hanoi, Vietnam（ 2010 / 6 / 30 - 2010 / 9 / 1 ）
